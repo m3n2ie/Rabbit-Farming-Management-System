@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Jun 21 15:25:48 CAT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-016b-7a36-ebe3-0000068a7160 
+on database directory C:\Conejo\_database\rfms_database with class loader sun.misc.Launcher$AppClassLoader@5c647e05 
+Loaded from file:/C:/Users/User/Google%20Drive/Programming%20Stuff/Projects/Rabbit%20Farming%20Management%20System/Current%20Version%20Source/Rabbit%20Farming%20Management%20System/libs/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_201-b09
+user.dir=C:\Users\User\Google Drive\Programming Stuff\Projects\Rabbit Farming Management System\Current Version Source\Rabbit Farming Management System
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
